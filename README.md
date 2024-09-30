@@ -7,7 +7,6 @@
 ![353835768-65bb4036-96f8-463f-a4a8-28a0c657acf1](https://github.com/user-attachments/assets/cc9589c1-2ff7-4cf7-b281-087cfc2331ef)
 ![353835819-f57d32d7-f634-4384-a5f2-0ef634b32e49](https://github.com/user-attachments/assets/66dc90f2-f1ea-4279-aa63-5288aeebcf67)
 ![353835858-43b0daeb-192e-49cd-b84b-21a51fae37cf](https://github.com/user-attachments/assets/fe1a4595-4fd2-40a9-a734-86c90fa32a2a)
-![353835858-43b0daeb-192e-49cd-b84b-21a51fae37cf](https://github.com/user-attachments/assets/b074fb27-240a-40bb-b4cd-74dcf0fccbac)
 ![353835886-404c5e69-b3c7-4a03-8ffd-f05e5a09683a](https://github.com/user-attachments/assets/9084c7b6-55e3-47f4-8b79-bea8d9ce15f1)
 ![353835913-eb29bded-7e64-4b72-8baa-99f1e113781b](https://github.com/user-attachments/assets/2aba8b3b-f936-4aef-a09e-7221ebac2755)
 
