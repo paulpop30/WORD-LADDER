@@ -2,5 +2,4 @@
 #### Implementing a word puzzle invented in the 19th century by Lewis Carroll. For this game, there is assigned a starting word and a target word (you can find more explanations in the pictures).
 #### All the necessary details regarding the code are provided in the requirement pictures. For automatic mode, choose option 1 and for the playing mode choose option 2.
 #### TO RUN THE PROJECT, create a project in a C++ IDE, I recommend Visual Studio Community or C Lion. Copy all the headers (.h) ,cpp (.cpp) files + english_words.txt and after that run the Source.cpp.
-
-[Copie a fișierului Extra credit 3.docx.md](https://github.com/user-attachments/files/17189349/Copie.a.fi.ierului.Extra.credit.3.docx.md)
+[Uploading Extra credit 3.docx.pdf…]()
