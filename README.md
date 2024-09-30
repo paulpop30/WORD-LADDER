@@ -4,3 +4,4 @@
 #### TO RUN THE PROJECT, create a project in a C++ IDE, I recommend Visual Studio Community or C Lion. Copy all the headers (.h) ,cpp (.cpp) files + english_words.txt and after that run the Source.cpp.
 
 ![353835559-83206b80-c938-4e03-92e5-28647d247288](https://github.com/user-attachments/assets/ef5a23a1-9a75-43d6-812c-63f402362e9d)
+![Uploading 353835768-65bb4036-96f8-463f-a4a8-28a0c657acf1.png…]()
